@@ -23,6 +23,7 @@ class Grades{
 		float getGpa(){
 			return gpa;
 		}
+};
 
 
 
