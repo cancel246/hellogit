@@ -1,4 +1,11 @@
+#ifndef GRADES_H
+#define GRADES_H
+
 class Grades{
+	private:
+		string name;
+		float gpa;
+
 	public:
 		explicit Grades(string name){
 		:name{g_name};
